@@ -3,7 +3,7 @@
     outline: none;
 }
 body {
-    background: linear-gradient(to left, rgb(31, 214, 113), green);
+    background-color:whitesmoke;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -12,8 +12,8 @@ h1 {
     letter-spacing: 5px;
 }
 .todos {
-    margin: 3rem auto;
-    width: 50%;
+    margin: auto;
+    width: 98%
 }
 .todos li {
     font-size: large;
