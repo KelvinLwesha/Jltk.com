@@ -16,13 +16,4 @@ h1 {
     width: 98%
 }
 .todos li {
-    font-size: large;
-    height: 2rem;
-    padding: .5rem;
-    background: #fff;
-    margin: 1rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    cursor: pointer;
 }
